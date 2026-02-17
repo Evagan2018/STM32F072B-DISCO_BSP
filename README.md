@@ -3,6 +3,7 @@
 [![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD--3--Clause-green?label=License)](https://github.com/Open-CMSIS-Pack/STM32F072B-DISCO_BSP/blob/main/LICENSE-BSD-3-Clause)
 [![Examples Build Test](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/STM32F072B-DISCO_BSP/Test-Examples.yml?logo=arm&logoColor=0091bd&label=Examples%20Build%20Test)](./.github/workflows/Test-Examples.yml)
 [![MDK-Middleware Build Test](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/STM32F072B-DISCO_BSP/Test-MDK-Middleware-RefApps.yml?logo=arm&logoColor=0091bd&label=MDK-Middleware%20Build%20Test)](./.github/workflows/Test-MDK-Middleware-RefApps.yml)
+[![Build pack](https://img.shields.io/github/actions/workflow/status/Open-CMSIS-Pack/STM32F072B-DISCO_BSP/pack.yml?logo=arm&logoColor=0091bd&label=Build%20pack)](./.github/workflows/pack.yml)
 
 
 # STM32F072B-DISCO_BSP
@@ -22,6 +23,7 @@ Directory                   | Description
 [Examples/Blinky](https://github.com/Open-CMSIS-Pack/STM32F072B-DISCO_BSP/tree/main/Examples/Blinky)     | Blinky example in *csolution project format* using [CMSIS-Driver VIO](https://arm-software.github.io/CMSIS_6/latest/Driver/group__vio__interface__gr.html) and [CMSIS-Compiler](https://arm-software.github.io/CMSIS-Compiler/main/index.html) for printf I/O retargeting.
 [Images](https://github.com/Open-CMSIS-Pack/STM32F072B-DISCO_BSP/tree/main/Images)                       | [Pictures](https://github.com/Open-CMSIS-Pack/STM32F072B-DISCO_BSP/blob/main/Images/stm32f072b-disco_large.png) of the board.
 [Layers](https://github.com/Open-CMSIS-Pack/STM32F072B-DISCO_BSP/tree/main/Layers)                       | Board layers for using the board with [CMSIS-Toolbox - Reference Applications](https://open-cmsis-pack.github.io/cmsis-toolbox/ReferenceApplications/).
+
 
 ## Using the development repository
 
